@@ -1,5 +1,5 @@
 const API_BASE_URL = "https://script.google.com/macros/s/AKfycbyrtWLsl5f1PXdvarZYoh2GyR_UYKN05k4q9hbtLpP9FHMsjEU/exec?action=get&resource=";
-const USERS = ["Aaron", "Ryan"];
+const USERS = ["Aaron", "Ryan", "Ian"];
 var GLOBAL_USER = "Aaron";
 var GLOBAL_STATE = "All";
 var MARKERS = [];
